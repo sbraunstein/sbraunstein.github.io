@@ -1,2 +1,2 @@
 # braunyman.com
-personal website
+personal website w/ bootstrap
