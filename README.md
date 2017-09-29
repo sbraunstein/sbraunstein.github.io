@@ -1,2 +1,0 @@
-# braunyman.com
-personal website
